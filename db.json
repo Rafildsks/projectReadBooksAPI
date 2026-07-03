@@ -1,0 +1,22 @@
+ {
+ "usuarios": [
+    {
+      "id": 1,
+      "nome": "Rafael Serafim",
+      "email": "rafaelfdsprofissional@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "id": 2,
+      "nome": "Julia Cavalcante",
+      "email": "juliacavalc@gmail.com",
+      "senha": "5678"
+    },
+    {
+      "id": 3,
+      "nome": "Pedro Lucas",
+      "email": "pedrolu@gmail.com",
+      "senha": "91011"
+    }
+  ]
+}
